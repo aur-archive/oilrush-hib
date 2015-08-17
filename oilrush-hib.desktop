@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Oil Rush
+Comment=A naval tower defense RTS game that takes place in a world where nuclear war has melted the ice caps.
+Icon=oilrush-hib
+Exec=oilrush-hib
+Categories=Game;StrategyGame;
